@@ -14,7 +14,7 @@ That manuscript contains additional important information beyond what is in this
 
  
 
-# Table of Contents 
+## Table of Contents 
 
 - [About Sensor](#about-sensor) 
 
@@ -26,7 +26,7 @@ That manuscript contains additional important information beyond what is in this
 
  
 
-# About Sensor 
+## About Sensor 
 
 This project comprises a sensor package designed to make distance measurements of water level and record measurements. It utilizes an Arduino-based Adafruit Adalogger, Particle Boron with cellular data transfer, and a Maxbotix ultrasonic rangefinder. 
 
@@ -36,7 +36,7 @@ This project comprises a sensor package designed to make distance measurements o
 
  
 
-# Datasheets  
+## Datasheets  
 
 Link datasheets 
 
@@ -44,11 +44,11 @@ Link datasheets
 
  
 
-# How to get started 
+## How to get started 
 
 Link to firmware getting started 
 
  
 
-# Deployment  
+## Deployment  
 
