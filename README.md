@@ -28,7 +28,7 @@ That manuscript contains additional important information beyond what is in this
 
 ## About Sensor 
 
-This project comprises a sensor package designed to make distance measurements of water level and record measurements. It utilizes an Arduino-based Adafruit Adalogger, Particle Boron with cellular data transfer, and a Maxbotix ultrasonic rangefinder. 
+This project comprises a sensor package designed to make distance measurements of water level and record measurements. It utilizes an Arduino-based Adafruit Adalogger, Particle Boron with cellular data transfer, and a Maxbotix ultrasonic rangefinder. a rechargeable lithium ion battery,
 
 %% #how to order ? 
 %% BOM  ?
