@@ -20,9 +20,9 @@ That manuscript contains additional important information beyond what is in this
 
 - [Datasheets](#Datasheets) 
 
-- [How to get started](#How-to-guide)
+- [How to get started](#How-to-get-started)
 
-- ad
+- [Deployment](#Deployment)
 
  
 
@@ -44,7 +44,7 @@ Link datasheets
 
  
 
-# How to guide 
+# How to get started 
 
 Link to firmware getting started 
 
