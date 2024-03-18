@@ -1,7 +1,4 @@
-# trialreadmeforwaterlevelsensor
-trail read me
-
- Open Water Level Sensor 
+# Open Water Level Sensor 
 
 This GitHub repository is intended to serve as supplementary information to a manuscript in the journal Oceanography, in the special section DIY (do-it-yourself) Oceanography.  
 
